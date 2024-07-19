@@ -1,0 +1,8 @@
+{
+    "name": "lenovo/truescope",
+    "description": "A PHP project for sending emails using PHPMailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "cboden/ratchet": "^0.4.4"
+    }
+}
